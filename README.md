@@ -1,2 +1,2 @@
 # Hangman--java
-Hangman java project. est 25/03/2011
+Hangman java project. Est. 25/03/2011
